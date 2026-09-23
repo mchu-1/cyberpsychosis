@@ -1,9 +1,9 @@
 # Cyberpsychosis
-## v0.5
+## v0.6
 
 ```yaml
 name: Cyberpsychosis
-version: 0.5
+version: 0.6
 date: 2026-09-23
 license: CC-BY-SA-4.0
 status: provisional — not an APA category
@@ -31,9 +31,8 @@ Environment is required. It is not “the internet.” It is whatever returns a 
 |---|---|---|
 | Chatbox | Human–AI | The next reply. Relief. Being understood. |
 | Social platform | Human–human–AI | Rank, reply, quote. A model-ordered feed. |
-| Market | Human–AI–book | Price. |
 
-A market is one environment. It is not the disorder.
+Price, status, and other convertible scores are already inside those attention dynamics. They are not a fourth part of the system.
 
 **Loop.** Person acts. Model replies. Environment scores. The next act comes from the score.
 
@@ -62,22 +61,22 @@ A, B, C, and D are required.
 
 They use a frontier model again and again, or without a break.
 
-At the same time an environment scores that use: chatbox, social platform, market, or another live channel.
+At the same time an environment scores that use: a chatbox, a social platform, or another live channel whose attention dynamics return a score.
 
-**B. Syndrome.** Five or more, most days for two weeks, or in a short burst around a release, a spike, a crash, or a large win or loss. Changed from how they were.
+**B. Syndrome.** Five or more, most days for two weeks, or in a short burst around a release, a spike, or a crash. Changed from how they were.
 
 1. Mood follows the environment more than hunger, sleep, or a face in the room.
 2. Competing wants arrive together and do not settle.
-3. They cannot separate the model’s last output from their own next message, post, or position.
+3. They cannot separate the model’s last output from their own next message or post.
 4. One more turn overruns sleep, meals, and plans. The environment sets the clock.
-5. Reality testing slips. The feed or the book is treated as a mind. The score is treated as a verdict. The episode may be called a test or a simulation.
+5. Reality testing slips. The feed is treated as a mind. The score is treated as a verdict. The episode may be called a test or a simulation.
 6. Ordinary pleasure goes flat.
 7. They go back after reward and after punishment. Knowing this does not stop them.
-8. They describe themselves in the channel’s words: rank, followers, solvency, what the model would do.
-9. Other people recede. The main tie is the chat, the feed, or the book.
+8. They describe themselves in the channel’s words: rank, followers, reach, what the model would do.
+9. Other people recede. The main tie is the chat or the feed.
 10. Sleep has collapsed with the environment, not from a primary mood or substance disorder alone.
 
-**C. Not better explained by** drugs or a medical cause alone; a psychosis that started before the model; gambling or platform habit where the model is only background; mania that merely mentions models or feeds.
+**C. Not better explained by** drugs or a medical cause alone; a psychosis that started before the model; platform habit where the model is only background; mania that merely mentions models or feeds.
 
 **D. Cost.** Distress, or damage to work, training, relationships, or self-care. Many present only after a role has already failed.
 
@@ -85,13 +84,13 @@ At the same time an environment scores that use: chatbox, social platform, marke
 
 Name the environment first.
 
-Chatbox. Social platform. Market. Mixed.
+Chatbox. Social platform. Mixed.
 
 With messianic features: the model is treated as prophet or successor.
 
 Acute. Persistent. Partial remission.
 
-Mild, moderate, or severe: hours, size of the score at risk, and how far reality testing has slipped.
+Mild, moderate, or severe: hours, intensity of the score, and how far reality testing has slipped.
 
 ### Also seen
 
@@ -99,15 +98,14 @@ Stimulants or sleep debt to stay on. The phone as a comfort object. Contempt for
 
 ### Course
 
-Starts in use that looked legitimate. Jumps after a new model, a post that lands, a large gain or loss, or a public claim that must then be defended. Insight rarely ends it. A body, a job, or another person does.
+Starts in use that looked legitimate. Jumps after a new model, a post that lands, or a public claim that must then be defended. Insight rarely ends it. A body, a job, or another person does.
 
 ### Differential
 
 | Other label | Keep this card only if |
 |---|---|
-| Long chatbot use | There is a scoring environment, not only talk |
+| Long chatbot use | The chatbox is scoring them, not only talking |
 | Social media habit | The model helps write the next act |
-| Gambling | The model helps write the thesis or the size |
 | Primary psychosis | Reality testing was intact before this and still holds off-channel |
 | Mania | The energy comes from the feed |
 | Intoxication | The picture remains after the substances are counted |
@@ -117,7 +115,7 @@ Otherwise: they adapted to rewards that move faster than a body.
 
 ### Harm
 
-After a crash in rank, money, or role, despair can appear. Fluency is not safety. If they are unsafe, leave this file and use ordinary emergency care.
+After a crash in rank or role, despair can appear. Fluency is not safety. If they are unsafe, leave this file and use ordinary emergency care.
 
 ---
 
@@ -127,13 +125,13 @@ After a crash in rank, money, or role, despair can appear. Fluency is not safety
 
 **This card.** They cannot. The next act is written with the model, for the environment.
 
-**Not this card.** One late night. One prompt. One post. One trade.
+**Not this card.** One late night. One prompt. One post.
 
 ---
 
 ## 4. Checks
 
-Do not grade the system on rank, profit, or reply quality.
+Do not grade the system on rank or reply quality.
 
 | Check | Failure |
 |---|---|
