@@ -6,6 +6,6 @@ a compendium on cyber-psychosis 🪳
 - Clinicians: §2. Engineers: §1.
 - License: [CC BY-SA 4.0](LICENSE)
 
-Human, model, environment. Score is what the environment already returns. Not a test you build.
+Human, model, environment. Environment is a chatbox or a social platform. Score is what that environment already returns after it sorts signal from noise. Not a test you run on the patient.
 
 Not an APA category. Not a care plan.
