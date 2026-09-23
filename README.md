@@ -2,11 +2,12 @@
 
 a compendium on cyber-psychosis 🪳
 
-Working instrument: a hybrid DSM-5-TR / model-card / constitution for the human–model–environment loop.
+Working instrument for the human–model–environment loop.
 
-Environment is the third component. It can be a chatbox (human–AI) or a social platform (human–human–AI). A market is one more scoring environment, not the definition.
-
-- Card: [`cyberpsychosis.md`](cyberpsychosis.md) (v0.3)
+- Clinicians: start at §3 Assessment in [`cyberpsychosis.md`](cyberpsychosis.md)
+- Engineers: start at §1 System
 - License: [CC BY-SA 4.0](LICENSE)
 
-Not an APA category. Not a care plan. The unit of analysis is the loop.
+Environment is the third component: chatbox (human–AI) or social platform (human–human–AI). A market is one more scoring environment.
+
+Not an APA category. Not a care plan.
