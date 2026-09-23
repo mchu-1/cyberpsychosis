@@ -1,11 +1,11 @@
 # cyberpsychosis
 
-a compendium on cyber-psychosis 🪳
+a system card for the human–model–environment loop 🪳
 
-- Card: [`cyberpsychosis.md`](cyberpsychosis.md) (v1.1)
-- Read §2 for assessment. Read §1 for the system.
+- File: [`cyberpsychosis.md`](cyberpsychosis.md) (v1.1)
+- Read §2 for the case definition. Read §1 for the system.
 - License: [CC BY-SA 4.0](LICENSE)
 
-Human, model, environment. Score is what the environment already returns after it sorts signal from noise.
+Score is what the environment already returns after it sorts signal from noise.
 
-Not an APA category. Not a care plan.
+Not an APA category. Not a care plan. Not a persona card.
