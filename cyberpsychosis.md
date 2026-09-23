@@ -1,9 +1,9 @@
 # Cyberpsychosis
-## v0.6
+## v0.7
 
 ```yaml
 name: Cyberpsychosis
-version: 0.6
+version: 0.7
 date: 2026-09-23
 license: CC-BY-SA-4.0
 status: provisional — not an APA category
@@ -27,14 +27,20 @@ Three parts.
 
 Environment is required. It is not “the internet.” It is whatever returns a signal fast enough to shape the next act.
 
-| Environment | Parties | Score |
+| Environment | Parties | What comes back |
 |---|---|---|
 | Chatbox | Human–AI | The next reply. Relief. Being understood. |
 | Social platform | Human–human–AI | Rank, reply, quote. A model-ordered feed. |
 
-Price, status, and other convertible scores are already inside those attention dynamics. They are not a fourth part of the system.
+**Score.** The name for what already comes back. Not a test you build. Not a dashboard for the illness. The environment is already answering the last act. That answer is the score.
 
-**Loop.** Person acts. Model replies. Environment scores. The next act comes from the score.
+Examples in a chatbox: the model replies at once; the reply fits; the reply flatters; the reply deepens the thesis; the reply withholds and the person sends another turn to recover the feeling. There may be no public counter. The return is still a score.
+
+Examples on a social platform: likes, replies, quotes, views, follower change, placement in the feed, or silence where a return was expected. Likes are one form. Silence is another.
+
+Convertible forms (status, money, reach) live inside the same attention dynamics. They are not a fourth part of the system.
+
+**Loop.** Person acts. Model replies. Environment returns a score. The next act comes from that return.
 
 **Failure.** The person can still explain the loop. They no longer run it.
 
