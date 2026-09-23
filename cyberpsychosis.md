@@ -1,17 +1,18 @@
 # Cyberpsychosis
-## v1.1
+## System card · v1.1
 
 ```yaml
 name: Cyberpsychosis
+document_type: system card
 version: 1.1
 date: 2026-09-23
 license: CC-BY-SA-4.0
 status: provisional — not an APA category
 ```
 
-This file is a working instrument. It is not a recognized diagnosis and it is not a care plan.
+This file is a system card for the human–model–environment loop, with a provisional case definition attached. It is not a persona card, not a recognized diagnosis, and not a care plan.
 
-A clinician can begin at §2. An engineer can begin at §1.
+Begin at §2 for the case definition. Begin at §1 for the system.
 
 ---
 
@@ -166,4 +167,4 @@ The first question is not whether the model is useful. The relevant question is 
 
 There is no epidemiological sample, no field trial, and no validated severity scale. The shape of the criteria follows DSM-5-TR. The shape of the system description follows a model card. Neither source authorizes this category.
 
-This file is a working instrument. It is not a diagnostic code, not a consensus statement, and not a care plan.
+This file is a system card. It is not a diagnostic code, not a consensus statement, and not a care plan.
