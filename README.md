@@ -2,12 +2,10 @@
 
 a compendium on cyber-psychosis 🪳
 
-Working instrument for the human–model–environment loop.
-
-- Clinicians: start at §3 Assessment in [`cyberpsychosis.md`](cyberpsychosis.md)
-- Engineers: start at §1 System
+- Card: [`cyberpsychosis.md`](cyberpsychosis.md) (v0.5)
+- Clinicians: §2. Engineers: §1.
 - License: [CC BY-SA 4.0](LICENSE)
 
-Environment is the third component: chatbox (human–AI) or social platform (human–human–AI). A market is one more scoring environment.
+Human, model, environment. Environment may be a chatbox or a social platform.
 
 Not an APA category. Not a care plan.
