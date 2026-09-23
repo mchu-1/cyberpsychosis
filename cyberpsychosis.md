@@ -1,13 +1,12 @@
 # Cyberpsychosis
-## v1.0
+## v1.1
 
 ```yaml
 name: Cyberpsychosis
-version: 1.0
+version: 1.1
 date: 2026-09-23
 license: CC-BY-SA-4.0
 status: provisional — not an APA category
-review: consultant psychiatrist; AI alignment researcher
 ```
 
 This file is a working instrument. It is not a recognized diagnosis and it is not a care plan.
@@ -103,7 +102,7 @@ Onset is usually insidious during use that appeared legitimate, including work, 
 Apply this working category rather than the label on the left only when the condition on the right is met.
 
 | Other label | Prefer this card only if |
-|---|---|---|
+|---|---|
 | Prolonged chatbot use | The chatbox is returning signal and noise that shape the next act, not only conversation |
 | Social media habit | The model co-authors the next act |
 | Primary psychotic disorder | Reality testing was intact before this exposure and remains largely intact off the channel |
@@ -153,13 +152,13 @@ Hours in the loop, sleep, and role failure are the measures that matter.
 
 ---
 
-## 5. Use by role
+## 5. Use
 
-A clinician should establish which environment answers the person and what that environment treats as signal. Do not reduce the picture to excessive chatbot use until it is clear whether the model is writing the next act. Restore sleep and an ordinary clock before debating insight. Insight is usually already present and has not ended the loop.
+Establish which environment answers the person and what that environment treats as signal. Do not reduce the picture to excessive chatbot use until it is clear whether the model is writing the next act. Restore sleep and an ordinary clock before debating insight. Insight is usually already present and has not ended the loop.
 
-An engineer should not treat the human as a wrapper around the model. Long context and constant availability change sleep and control. Ranking, retrieval, and reply order are attention rules already in the environment. If a system co-authors acts inside such an environment, this card is about that deployment. Do not add an evaluation harness that scores the person.
+Do not treat the human as a wrapper around the model. Long context and constant availability change sleep and control. Ranking, retrieval, and reply order are attention rules already in the environment. If a system co-authors acts inside such an environment, this card is about that deployment. Do not add an evaluation harness that scores the person.
 
-Anyone inside the loop should not ask first whether the model is useful. The relevant question is whether they can still want something the environment does not mark as signal.
+The first question is not whether the model is useful. The relevant question is whether the person can still want something the environment does not mark as signal.
 
 ---
 
